@@ -1,0 +1,4 @@
+PyInstaller == 6.10.0
+PyQt5 == 5.15.4
+PyQt5-tools == 5.15.4.3.2
+folium == 0.17.0
